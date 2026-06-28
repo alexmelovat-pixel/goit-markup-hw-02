@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: #fff;
   font-family: 'Roboto', sans-serif;
   color: #434455;
   font-weight: 400;
@@ -9,7 +9,7 @@ body {
 }
 a {
   text-decoration: none;
-  color: #2e2f42;
+  color: inherit;
 }
 
 ul {
