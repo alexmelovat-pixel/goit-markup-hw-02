@@ -8,6 +8,7 @@
   letter-spacing: 0.02em;
   text-align: center;
   color: white;
+  width: 496px;
 }
 .hero-button {
   background-color: #4d5ae5;
@@ -19,7 +20,4 @@
 .hero-button:hover,
 .hero-button:focus {
   background-color: #404bbf;
-}
-.hero-title-box {
-  display: block;
 }
